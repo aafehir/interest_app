@@ -2,7 +2,9 @@
 
 ## Summarize the project and what problem it was solving.
 
-The goal in this project was to create a compound interest calculator which takes the initial investment amount, monthly deposit amount, and number of years as parameters. The interest is compounded monthly. The user is prompted for the parameters and two tables are displayed. One table shows how the investment will grow overtime if no additional monthly deposits are made and the other takes the monthly deposits into consideration.
+The goal in this project was to create a compound interest calculator which takes the initial investment amount, monthly deposit amount, and number of years as parameters. The interest is compounded monthly. The user is prompted for the parameters and two tables are displayed. One table shows how the investment will grow overtime if no additional monthly deposits are made and the other takes the monthly deposits into consideration. 
+
+Note: I have commited both the C++ source code (i.e. .cpp and .h files) indivdually as well as a zip of the project compiled for Windows via Eclipse.
 
 ## What did you do particularly well?
 
